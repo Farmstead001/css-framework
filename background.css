@@ -1,6 +1,7 @@
 :root {
     --bg-primary: #262733;
     --bg-secondary: #F4EEE0;
+    --bg-navbar: #0B60B0;
 }
 
 .bg-primary {
@@ -9,4 +10,8 @@
 
 .bg-secondary {
     background-color: var(--bg-secondary);
+}
+
+.bg-navbar {
+    background-color: var(--bg-navbar);
 }
