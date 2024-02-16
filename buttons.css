@@ -1,0 +1,37 @@
+:root {
+    --btn-primary: #0B60B0;
+    --btn-secondary: #4F4557;
+    --btn-success: #6bc418;
+    --btn-danger: #cc1919;
+}
+
+.btn {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+
+    color: black;
+    font-weight: 550;
+    font-size: 0.85rem;
+    background-color: white;
+}
+
+.btn-primary {
+    background-color: var(--btn-primary);
+    color: white;
+}
+
+.btn-secondary {
+    background-color: var(--btn-secondary);
+    color: white;
+}
+
+.btn-success {
+    background-color: var(--btn-success);
+    color: white;
+}
+
+.btn-danger {
+    background-color: var(--btn-danger);
+    color: white;
+}

@@ -1,0 +1,10 @@
+:root {
+    --div-primary: #404258;
+}
+
+.div-primary {
+    background-color: var(--div-primary);
+    color: white;
+
+    border-radius: 10px;
+}
